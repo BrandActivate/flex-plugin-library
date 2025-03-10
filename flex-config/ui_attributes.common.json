@@ -253,7 +253,7 @@
       },
       "park_interaction": {
         "enabled": true,
-        "show_list": false
+        "show_list": true
       },
       "teams_view_enhancements": {
         "enabled": false,
