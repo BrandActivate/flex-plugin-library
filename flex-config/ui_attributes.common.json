@@ -268,7 +268,7 @@
         }
       },
       "ring_notification": {
-        "enabled": true
+        "enabled": false
       },
       "send_audio_rec_file": {
         "enabled": false
