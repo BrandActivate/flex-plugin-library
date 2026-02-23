@@ -357,11 +357,11 @@
         "enabled": false
       },
       "worker_details": {
-        "enabled": false,
-        "edit_team": true,
-        "edit_department": true,
+        "enabled": true,
+        "edit_team": false,
+        "edit_department": false,
         "text_attributes": [],
-        "boolean_attributes": []
+        "boolean_attributes": ["east_region", "west_region", "central_region"]
       },
       "worker_canvas_tabs": {
         "enabled": false
