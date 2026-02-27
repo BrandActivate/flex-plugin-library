@@ -364,7 +364,7 @@
         "boolean_attributes": ["east_region", "west_region", "central_region"]
       },
       "worker_canvas_tabs": {
-        "enabled": false
+        "enabled": true
       },
       "datadog_log_integration": {
         "enabled": false,
